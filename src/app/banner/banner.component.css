@@ -1,0 +1,18 @@
+/*banner pencil*/
+i.fa-solid.fa-pencil.fa-3x {
+    background-color: #f50d3cb0;
+    
+  }
+  i.fa-solid.fa-trash.fa-3x {
+    background-color: #db1414b0;
+  }
+div{
+    background-color: #000000a0;
+    width: 350%;
+    height: 12%;
+  }
+div.trash{
+    background-color: #000000;
+    width: 350%;
+    height: 12%;
+}

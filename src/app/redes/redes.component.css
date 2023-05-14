@@ -1,0 +1,16 @@
+ /*redes*/
+ i.fa-brands.fa-linkedin.fa-2x:hover {
+    background-color: #dc143cb0;
+  }
+  i.fa-brands.fa-facebook.fa-2x:hover {
+    background-color: #14dba3b0;
+  }
+  i.fa-brands.fa-github.fa-2x:hover {
+    background-color: #dc149dde;
+  }
+  i.fa-brands.fa-login.fa-2x:hover {
+    background-color: #dcc814b0;
+  }
+  .list-group {
+    --bs-list-group-bg: #bbc4d6;
+  }

@@ -1,0 +1,29 @@
+h2{
+    background-color: #20c997;
+    width: 100%;
+    text-align: justify;
+    padding: 100px;
+    
+}
+img{
+    box-shadow: 6px 6px 6px 6px rgba(51, 119, 165, 0.7);
+  margin-top: 1rem;
+  margin-left: 1rem;
+  height: 110px;
+  width: 200px;
+  float: left;
+  padding: 0 15px;
+  
+}
+div.fondo{
+    background-color: rgba(58, 25, 72, 0.563);
+    display: flex;
+    
+}
+.imgred{
+    width: 15%;
+    height: 15%;
+    border-radius: 50%;
+    margin: 50px;
+    align-self: center 800px;
+}
